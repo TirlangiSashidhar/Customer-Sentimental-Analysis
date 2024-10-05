@@ -1,1 +1,2 @@
 # Customer-Sentimental-Analysis
+Analyze customer data from an e-commerce platform to segment customers based on purchasing behavior and demographics. Calculate Customer Lifetime Value (CLV) foreach segment to inform targeted marketing strategies and enhance customer retention. This project integrates advanced Excel, SQL, Power BI, and Python techniques,providing hands-on experience with real-world data analysis scenarios.
